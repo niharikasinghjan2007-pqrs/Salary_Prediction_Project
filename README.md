@@ -1,6 +1,6 @@
 # Salary Prediction Project
 
-This project predicts salary using Machine Learning.
+This project predicts salary using Ensemble Learning.
 
 Technologies Used:
 - Python
